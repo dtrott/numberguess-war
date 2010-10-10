@@ -4,7 +4,7 @@
     <groupId>seam-example</groupId>
     <artifactId>number-guess-war</artifactId>
     <name>Seam Number Guess</name>
-    <version>1.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
     <build>
